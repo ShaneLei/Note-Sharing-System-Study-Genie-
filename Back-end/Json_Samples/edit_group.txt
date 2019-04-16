@@ -1,0 +1,8 @@
+{
+	"_id":"5bf3a6e01c0de10fa50cbfcf",
+	"group_name": "test123",
+	"members": "bosco",
+	"description": "testing",
+	"token": "YFCSRYL0CGDHSWG89169"
+
+}

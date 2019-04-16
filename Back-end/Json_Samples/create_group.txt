@@ -1,0 +1,7 @@
+{
+	"group_name": "test",
+	"members": "bosco",
+	"description": "testing",
+	"token": "YFCSRYL0CGDHSWG89169"
+
+}

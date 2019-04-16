@@ -1,0 +1,9 @@
+{
+	"title": "test",
+	"visibility": "all",
+	"note_content": "test",
+	"labels": "label1,label2",
+    "groups": "group1,group2",
+	"token": "2OQF2AA2LN8IQVUCWTJV"
+
+}

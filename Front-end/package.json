@@ -1,0 +1,49 @@
+{
+  "name": "redux-simple-starter",
+  "version": "1.0.0",
+  "description": "Simple starter package for Redux with React and Babel support",
+  "main": "index.js",
+  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "scripts": {
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
+    "test:watch": "npm run test -- --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "css-loader": "^1.0.0",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.4.0",
+    "@material-ui/icons": "^3.0.1",
+    "axios": "^0.18.0",
+    "babel-preset-stage-1": "^6.1.18",
+    "chart.js": "^2.7.3",
+    "lodash": "^3.10.1",
+    "prop-types": "^15.6.2",
+    "react": "16.3.2",
+    "react-bootstrap": "^0.32.3",
+    "react-chartkick": "^0.3.0",
+    "react-dom": "16.3.2",
+    "react-material-ui-form-validator": "^2.0.2",
+    "react-redux": "5.0.7",
+    "react-render-html": "^0.6.0",
+    "react-router-dom": "^4.2.2",
+    "react-tagcloud": "^1.3.1",
+    "react-xmasonry": "^2.5.6",
+    "recharts": "^1.4.1",
+    "redux": "4.0.0",
+    "redux-devtools-extension": "^2.13.5",
+    "redux-form": "^7.4.2",
+    "redux-promise": "^0.6.0",
+    "semantic-ui-react": "^0.82.3",
+    "style-loader": "^0.23.0"
+  }
+}

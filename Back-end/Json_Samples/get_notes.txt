@@ -1,0 +1,6 @@
+{
+	"labels": "label1",
+    "groups": "group1",
+	"token": "2OQF2AA2LN8IQVUCWTJV"
+
+}
